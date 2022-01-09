@@ -20,7 +20,7 @@ export function PureInboxScreen({ error }) {
     <div className="page lists-show">
       <nav>
         <h1 className="title-page">
-          <span className="title-wrapper">Taskbox</span>
+          <span className="title-wrapper">Taskbox (Story book demo)</span>
         </h1>
       </nav>
       <TasksContainer />
