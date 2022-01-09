@@ -12,6 +12,7 @@ export function PureInboxScreen({ error }) {
           <span className="icon-face-sad" />
           <div className="title-message">Oh no!</div>
           <div className="subtitle-message">Something went wrong</div>
+          <div>Just an example</div>
         </div>
       </div>
     );
